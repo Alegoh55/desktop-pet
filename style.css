@@ -1,0 +1,12 @@
+body{
+margin:0;
+background:transparent;
+overflow:hidden;
+}
+
+#cat{
+width:128px;
+image-rendering: pixelated;
+cursor: grab;
+user-select:none;
+}
